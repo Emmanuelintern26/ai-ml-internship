@@ -1,0 +1,8 @@
+name,student_id,grades
+Alice Smith,STU001,"{""math"": 85, ""english"": 92, ""science"": 78}"
+Bob Jones,STU002,"{""math"": 56, ""english"": 78, ""science"": 60}"
+Charlie Brown,STU003,"{""math"": 91, ""english"": 88, ""science"": 95}"
+Diana Prince,STU004,"{""math"": 74, ""english"": 81, ""science"": 85}"
+Evan Wright,STU005,"{""math"": 45, ""english"": 62, ""science"": 55}"
+Alex tundra,STU006,"{""math"": 41, ""english"": 55, ""science"": 35}"
+Emma Adjei,STU007,"{""math"": 87, ""english"": 76, ""science"": 97}"
